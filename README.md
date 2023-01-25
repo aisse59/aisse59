@@ -1,4 +1,4 @@
-![Cover](https://github.com/aisse59/aisse59/blob/main/img/undraw_Engineering_team_a7n2.png)
+![Cover](https://github.com/aisse59/aisse59/blob/main/undraw_Engineering_team_a7n2.png)
 <h1 align="center">Hi 👋, I'm Aïssé</h1>
 <h3 align="center">A passionate web developer from France.</h3>
 
